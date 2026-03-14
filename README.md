@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="17096203676656071384" data-share-method="host" data-aspect-ratio="1.27907" data-width="100%"><a href="https://tenor.com/view/stk-gif-17096203676656071384">Stk Sticker</a>from <a href="https://tenor.com/search/stk-stickers">Stk Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h1 align="center">Welcome to Codegainers <img src="https://media.tenor.com/7UHqqhLP8tgAAAAj/stk.gif" height="50px" width="50px"></h1>
 
 
 ## 🌐 Socials:
