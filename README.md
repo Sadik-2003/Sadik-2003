@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Codegainers <img src="wavinghand.gif" height="50px" width="50px"></h1>
+<h1 align="center">It's me Sadik <img src="[wavinghand.gif](https://tenor.com/en-GB/view/stk-gif-17096203676656071384)" height="50px" width="50px"></h1>
 
 
 ## 🌐 Socials:
