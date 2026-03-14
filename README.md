@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Codegainers <img src="https://media.tenor.com/7UHqqhLP8tgAAAAj/stk.gif" height="50px" width="50px"></h1>
+<h1 align="center">It's me Sadik <img src="https://media.tenor.com/7UHqqhLP8tgAAAAj/stk.gif" height="50px" width="50px"></h1>
 
 
 ## 🌐 Socials:
